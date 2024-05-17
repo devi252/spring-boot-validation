@@ -1,0 +1,1 @@
+insert into Old_Employee values (101,'Nani',5000);

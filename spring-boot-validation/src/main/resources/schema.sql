@@ -1,0 +1,1 @@
+create table Old_Employee(id int not null, name varchar(200) not null, salary double);
